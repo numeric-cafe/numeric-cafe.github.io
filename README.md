@@ -12,7 +12,7 @@ I’ll be hanging out there and dishing out free Matlab and Octave programming a
 
 All are welcome at Numeric Café.
 To get an invite to the Slack space, send an email to <andrew@apjanke.net>.
-Or, if you have an email address at `@octave.org`, `@gnu.org`, `@mathworks.com`, or certain `.edu` addresses, you can create an account automatically [on the signup page].
+Or, if you have an email address at @octave.org, @gnu.org, @mathworks.com, or certain .edu addresses, you can create an account automatically [on the signup page](https://join.slack.com/t/numericcafe/signup?x=x-594108407168-617841048359).
 If you have a domain you’d like added to that list, just email me at <andrew@apjanke.net>.
 
 ## Café Policies
@@ -26,3 +26,6 @@ Café policies besides the TBD Code of Conduct can be found on the [Policies pag
 The Code of Conduct and [Policies](policies.md) can be summed up as “Don’t be a jerk”.
 We just need to flesh that out.
 
+## FAQs
+
+See the [FAQ](FAQ.md) page.
