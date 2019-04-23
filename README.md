@@ -17,9 +17,8 @@ If you have a domain you’d like added to that list, just email me at <andrew@a
 
 ## Café Policies
 
-To come!
-
-There is no established Code of Conduct, but I intend to have one, probably modeled on dev conference code of conducts.
+We have a very informal [Code of Conduct](coc.md).
+If this Slack takes off, we’ll establish a formal one.
 
 Café policies besides the TBD Code of Conduct can be found on the [Policies page](policies.md).
 
