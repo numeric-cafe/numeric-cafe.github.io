@@ -1,6 +1,8 @@
 Numeric Café Code of Conduct
 ============================
 
+April 23, 2019
+
 Numeric Café is currently too young and small to have a formal Code of Conduct, mostly because that would
 mean Andrew unilaterally imposing one on the space before there’s a community to form a consensus about
 it.
