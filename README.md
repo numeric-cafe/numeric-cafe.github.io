@@ -22,7 +22,7 @@ If this Slack takes off, we’ll establish a formal one.
 
 Café policies besides the TBD Code of Conduct can be found on the [Policies page](policies.md).
 
-The Code of Conduct and [Policies](policies.md) can be summed up as “Don’t be a jerk”.
+The [Code of Conduct](coc.md) and [Policies](policies.md) can be summed up as “Don’t be a jerk”.
 We just need to flesh that out.
 
 ## FAQs
