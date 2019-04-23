@@ -23,7 +23,7 @@ There’s no special requirements to get on the list; I just don’t want spamme
 We have a very informal [Code of Conduct](coc.md).
 If this Slack takes off, we’ll establish a formal one.
 
-Café policies besides the TBD Code of Conduct can be found on the [Policies page](policies.md).
+Café policies besides the Code of Conduct can be found on the [Policies page](policies.md).
 
 The [Code of Conduct](coc.md) and [Policies](policies.md) can be summed up as “Don’t be a jerk”.
 We just need to flesh that out.
