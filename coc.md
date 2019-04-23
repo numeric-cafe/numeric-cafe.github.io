@@ -7,7 +7,7 @@ Numeric Café is currently too young and small to have a formal Code of Conduct,
 mean Andrew unilaterally imposing one on the space before there’s a community to form a consensus about
 it
 
-Once we reach 100 active users, I will attempt to establish a consensus-supported formal Code of Conduct, supported by polls open to all active users.
+Once we reach 100 active users, I will attempt to establish a consensus-supported formal Code of Conduct, supported by polls open to all active users, and with reference to other well-established CoCs.
 
 In the mean time, here is an informal Code of Conduct.
 
@@ -23,9 +23,9 @@ In the mean time, here is an informal Code of Conduct.
     1. TODO: Post a GPG public key and Signal contact for secure, private reporting.
 1. The Space Administrator will review and enforce remedies for all complaints, at their discretion.
     1. Enforcement actions may include verbal warnings, deletion of content, temporary or permanent bans, or in extreme cases, referral to legal authorities.
-    1. I recognize that this is less than ideal. The blunt fact of the matter is that it leaves adjudication and enforcement in the sole hands of a straight white cis man. But since this space is just starting, we have no community to draw Conduct Board members from yet.
+    1. I recognize that this is less than ideal. The blunt fact of the matter is that it leaves adjudication and enforcement in the sole hands of a middle-aged straight white cis man. But since this space is just starting, we have no community to draw Conduct Board members from yet.
 1. If you feel unsafe, unwelcome, or uncomfortable for any reason, contact the Space Administrator, and they'll try to do something about it.
 
-
-If this space grows enough, we'll establish a formal Code of Conduct, and expand adjudication and enforcement responsibility to a multi-person board.
+For now, Andrew Janke (<andrew@apjanke.net>) is the Benevolent Dictator for Life and sole Space Administrator.
+If this space grows enough, and if I can get community support and time commitments from members, I will attempt to expand enforcement responsibility by creating a multi-person CoC board with diverse, responsible membership, which will have final CoC enforcement authority, superior to the BDFL and individual Space Administrators.
   
