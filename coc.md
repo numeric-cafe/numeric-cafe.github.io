@@ -2,7 +2,7 @@ Numeric Café Code of Conduct
 ============================
 
 Numeric Café is currently too young and small to have a formal Code of Conduct, mostly because that would
-mean Andrew unilaterally imposing one on the space before there's a community to form a consensus about
+mean Andrew unilaterally imposing one on the space before there’s a community to form a consensus about
 it.
 
 In the mean time, here is an informal Code of Conduct.
@@ -15,6 +15,7 @@ In the mean time, here is an informal Code of Conduct.
     1. [rOpenSci Code of Conduct](https://ropensci.org/code-of-conduct/)
     1. [Software Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
 1. Violations or other problems may be reported to the Space Administrator at <andrew@apjanke.net>.
+    1. In an emergency, contact Andrew on his cell phone at 206-427-0319.
     1. TODO: Post a GPG public key and Signal contact for secure, private reporting.
 1. The Space Administrator will review and enforce remedies for all complaints, at their discretion.
     1. Enforcement actions may include verbal warnings, deletion of content, temporary or permanent bans, or in extreme cases, referral to legal authorities.
