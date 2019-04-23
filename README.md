@@ -1,12 +1,12 @@
 Numeric Café
 ============
 
-This is the companion web site for the [https://numericcafe.slack.com](Numeric Café Slack space).
+This is the companion web site for the [Numeric Café Slack space](https://numericcafe.slack.com).
 
 
 Numeric Café is a public Slack for the discussion of programming and use of Matlab, Octave, R, numeric Python (NumPy/SciPy/pandas), and similar numeric and scientific programming languages.
 
-Numeric Café is an experiment set up by me, [Andrew Janke](https://apjanke.net), to see if a public Slack makes a good discussion environment for programming, with an aim to support both commercial and open source programmers.
+Numeric Café is an experiment set up by [Andrew Janke](https://apjanke.net), to see if a public Slack makes a good discussion environment for scientific programming, with an aim to support both commercial and open source programmers, and a primary focus on Matlab.
 The café’s population is currently just me and a couple colleagues.
 I’ll be hanging out there and dishing out free Matlab and Octave programming advice to whoever wanders in.
 
