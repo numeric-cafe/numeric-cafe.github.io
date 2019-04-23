@@ -5,7 +5,7 @@ April 23, 2019
 
 Numeric Café is currently too young and small to have a formal Code of Conduct, mostly because that would
 mean Andrew unilaterally imposing one on the space before there’s a community to form a consensus about
-it
+it.
 
 Once we reach 100 active users, I will attempt to establish a consensus-supported formal Code of Conduct, supported by polls open to all active users, and with reference to other well-established CoCs.
 
