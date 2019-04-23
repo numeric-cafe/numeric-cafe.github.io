@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+Numeric Café
+============
 
-You can use the [editor on GitHub](https://github.com/numeric-cafe/numeric-cafe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the companion web site for the [https://numericcafe.slack.com](Numeric Café Slack space).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Numeric Café is a public Slack for the discussion of programming and use of Matlab, Octave, R, numeric Python (NumPy/SciPy/pandas), and similar numeric and scientific programming languages.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Numeric Café is an experiment set up by me, [Andrew Janke](https://apjanke.net), to see if a public Slack makes a good discussion environment for programming, with an aim to support both commercial and open source programmers.
+The café’s population is currently just me and a couple colleagues.
+I’ll be hanging out there and dishing out free Matlab and Octave programming advice to whoever wanders in.
 
-```markdown
-Syntax highlighted code block
+All are welcome at Numeric Café.
+To get an invite to the Slack space, send an email to <andrew@apjanke.net>.
+Or, if you have an email address at `@octave.org`, `@gnu.org`, `@mathworks.com`, or certain `.edu` addresses, you can create an account automatically [on the signup page].
+If you have a domain you’d like added to that list, just email me at <andrew@apjanke.net>.
 
-# Header 1
-## Header 2
-### Header 3
+## Café Policies
 
-- Bulleted
-- List
+To come!
 
-1. Numbered
-2. List
+There is no established Code of Conduct, but I intend to have one, probably modeled on dev conference code of conducts.
 
-**Bold** and _Italic_ and `Code` text
+Café policies besides the TBD Code of Conduct can be found on the [Policies page](policies.md).
 
-[Link](url) and ![Image](src)
-```
+The Code of Conduct and [Policies](policies.md) can be summed up as “Don’t be a jerk”.
+We just need to flesh that out.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/numeric-cafe/numeric-cafe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
