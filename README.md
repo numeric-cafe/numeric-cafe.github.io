@@ -13,7 +13,9 @@ I’ll be hanging out there and dishing out free Matlab and Octave programming a
 ## Attending the Café
 
 All are welcome at Numeric Café.
-To get an invite to the Slack space, send an email to <andrew@apjanke.net>.
+
+To get an invite, send an email to <andrew@apjanke.net>.
+
 Or, if you have an email address at @octave.org, @gnu.org, @mathworks.com, or certain .edu addresses, you can create an account automatically [on the signup page](https://join.slack.com/t/numericcafe/signup?x=x-594108407168-617841048359).
 If you have a domain you’d like added to that list, just email me at <andrew@apjanke.net>.
 There are no special requirements to get on the list; I just don’t want spammers.
