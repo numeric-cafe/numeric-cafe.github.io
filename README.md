@@ -14,11 +14,21 @@ I’ll be hanging out there and dishing out free Matlab and Octave programming a
 
 All are welcome at Numeric Café.
 
+The Slack is at <https://numericcafe.slack.com>.
+
 To get an invite, send an email to <andrew@apjanke.net>.
 
 Or, if you have an email address at @octave.org, @gnu.org, @mathworks.com, or certain .edu addresses, you can create an account automatically [on the signup page](https://join.slack.com/t/numericcafe/signup?x=x-594108407168-617841048359).
 If you have a domain you’d like added to that list, just email me at <andrew@apjanke.net>.
 There are no special requirements to get on the list; I just don’t want spammers.
+
+### Numeric Café on Matrix
+
+As of May 2019, I’ve also set up a version of Numeric Café on Matrix/Riot. Matrix is an open source, decentralized version of Slack.
+
+The Matrix Numeric Café is at <https://matrix.to/#/+numeric-cafe:matrix.org>. No invite is necessary; anyone can go there and join the community.
+
+We’ll run both the Slack and Matrix versions of the Café for a while and see which, if any, gets traction.
 
 ## Café Policies
 
